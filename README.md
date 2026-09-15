@@ -3,6 +3,8 @@
 Figma dizayni asosida qurilgan o'zbek adabiyoti sayti.
 **React 19 + TypeScript + Vite + Tailwind v4 + React Router.**
 
+Dizayn manbasi (Figma): https://www.figma.com/design/bQlA3RFv2HEPQSa9uVedM7/devbooks.uz--Copy-
+
 ## Ishga tushirish
 
 ```bash
